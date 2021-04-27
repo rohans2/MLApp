@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572922782871",
+    "project_id": "mlapp-3076b",
+    "storage_bucket": "mlapp-3076b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572922782871:android:ac1d4d43c937df66b6f5d2",
+        "android_client_info": {
+          "package_name": "com.rs.mlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572922782871-q8k52j908qecvbqdv8sijpshf76d5176.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Hso-vDhSglTepmm-gwDL7jX088zoPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572922782871-q8k52j908qecvbqdv8sijpshf76d5176.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
